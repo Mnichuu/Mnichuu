@@ -1,2 +1,4 @@
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mnichuu)](https://github.com/Mnichuu)
+<a href="https://github.com/Mnichuu">  
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mnichuu&layout=compact&theme=radical" />
+</a> 
